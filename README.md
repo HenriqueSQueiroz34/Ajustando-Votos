@@ -1,6 +1,7 @@
 # Ajustando-Votos
 Programa destinado a auxiliar na organização de eleitores. Pode ser executado em compiladores online, uma vez que não importa bibliotecas.  
-O programa exige a seguinte estrutura:  
+O programa exige a seguinte estrutura:<br/>
+<br/>
 Título de Eleitor:  
 [Título] | Zona: [Num] | Seção: [Num]  
 [CPF]  
